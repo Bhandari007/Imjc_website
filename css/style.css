@@ -1,0 +1,10 @@
+.about{
+    text-align: justify;
+    word-spacing: 5px;
+    text-transform: capitalize;
+}
+.quote{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
